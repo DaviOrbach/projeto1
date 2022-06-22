@@ -1,2 +1,4 @@
 Olá meu nome é Davi
 eu sou uma nova linha
+digite sua senha
+digite sua idade
